@@ -7,7 +7,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aartisharma05" alt="aartisharma05" /></a> </p>
-<img align="right" alt="coding" width="400" height="300" margin-bottom="2rem" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/> 
+<img align="right" alt="coding" width="400" height="300" margin-bottom="2rem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&usqp=CAU"/> 
 
 - 🔭 I’m currently working on [Full stack development](https://project-movie-database.netlify.app/)
 
