@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aarti Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://tenor.com/view/programming-gif-25868426"> 
+<img align="right" width="400" src="[https://tenor.com/view/programming-gif-25868426](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aartisharma05&label=Profile%20views&color=0e75b6&style=flat" alt="aartisharma05" /> </p>
 
