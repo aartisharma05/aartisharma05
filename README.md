@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Full stack development(MERN Stack)
 
-- 💬 Ask me about **React,Javascripit,MYSQL,MongoDB, NodeJS**
+- 💬 Ask me about **React, JavaScript, MYSQL, MongoDB, NodeJS**
 
 - 📫 How to reach me **aartisharma.official1@gmail.com**
 
