@@ -9,11 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aartisharma05" alt="aartisharma05" /></a> </p>
 <img align="right" alt="coding" width="400" height="300" margin-bottom="2rem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HgneSNt2EbVsrodX89vQMqGT_uC6pLy2omsGK3EYARKC33heJu26gJpnD1GN1Y3iNFo&usqp=CAU"/> 
 
-- 🔭 I’m currently working on [Full stack development](https://project-movie-database.netlify.app/)
+- 🔭 I’m currently working on Full stack development(MERN Stack)
 
-- 🌱 I’m currently learning **Linux,Git,CS.**
-
-- 💬 Ask me about **React,Javascripit,MYSQL,OS.**
+- 💬 Ask me about **React,Javascripit,MYSQL,MongoDB, NodeJS**
 
 - 📫 How to reach me **aartisharma.official1@gmail.com**
 
