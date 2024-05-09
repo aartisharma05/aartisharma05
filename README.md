@@ -20,8 +20,6 @@
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=aartisharma05&label=Profile%20views&color=0e75b6&style=flat" alt="aartisharma05" /> </p>
 
 
-<img align="right" alt="coding" width="400" height="300" margin-bottom="2rem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HgneSNt2EbVsrodX89vQMqGT_uC6pLy2omsGK3EYARKC33heJu26gJpnD1GN1Y3iNFo&usqp=CAU"/> 
-
 
 
 
