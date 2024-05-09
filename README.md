@@ -13,6 +13,7 @@
 - 💬 Ask me about **React, JavaScript, MYSQL, MongoDB, NodeJS, NextJS**
 
 - 📫 How to reach me **aartisharma.official1@gmail.com**
+  
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Qp3VyAXnYfYYRoCM9WsRermscBE88Aq/view?pli=1](https://drive.google.com/file/d/11Qp3VyAXnYfYYRoCM9WsRermscBE88Aq/view?pli=1)
 
 - ⚡ Fun fact **Debugging is like detective work.**
