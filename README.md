@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Aarti Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aartisharma05&label=Profile%20views&color=0e75b6&style=flat" alt="aartisharma05" /> </p>
-
 
 - 🔭 I’m currently working on Full stack development(MERN Stack), NextJS
 
@@ -16,6 +14,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Qp3VyAXnYfYYRoCM9WsRermscBE88Aq/view?pli=1](https://drive.google.com/file/d/11Qp3VyAXnYfYYRoCM9WsRermscBE88Aq/view?pli=1)
 
 - ⚡ Fun fact **Debugging is like detective work.**
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aartisharma05&label=Profile%20views&color=0e75b6&style=flat" alt="aartisharma05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aartisharma05" alt="aartisharma05" /></a> </p>
 <img align="right" alt="coding" width="400" height="300" margin-bottom="2rem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HgneSNt2EbVsrodX89vQMqGT_uC6pLy2omsGK3EYARKC33heJu26gJpnD1GN1Y3iNFo&usqp=CAU"/> 
