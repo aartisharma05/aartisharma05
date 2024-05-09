@@ -13,15 +13,16 @@
 - 💬 Ask me about **React, JavaScript, MYSQL, MongoDB, NodeJS, NextJS**
 
 - 📫 How to reach me **aartisharma.official1@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/11Qp3VyAXnYfYYRoCM9WsRermscBE88Aq/view?pli=1](https://drive.google.com/file/d/11Qp3VyAXnYfYYRoCM9WsRermscBE88Aq/view?pli=1)
+
+- ⚡ Fun fact **Debugging is like detective work.**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aartisharma05" alt="aartisharma05" /></a> </p>
 <img align="right" alt="coding" width="400" height="300" margin-bottom="2rem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HgneSNt2EbVsrodX89vQMqGT_uC6pLy2omsGK3EYARKC33heJu26gJpnD1GN1Y3iNFo&usqp=CAU"/> 
 
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Qp3VyAXnYfYYRoCM9WsRermscBE88Aq/view?pli=1](https://drive.google.com/file/d/11Qp3VyAXnYfYYRoCM9WsRermscBE88Aq/view?pli=1)
 
-- ⚡ Fun fact **Debugging is like detective work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
