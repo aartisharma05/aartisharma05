@@ -42,9 +42,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=aartisharma05" alt="aartisharma05" /></a> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aartisharma05&show_icons=true&locale=en&layout=compact" alt="aartisharma05" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aartisharma05&show_icons=true&locale=en&layout=compact" alt="aartisharma05" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aartisharma05&" alt="aartisharma05" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aartisharma05&" alt="aartisharma05" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aartisharma05&show_icons=true&locale=en" alt="aartisharma05" /></p>
 
