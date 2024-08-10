@@ -9,13 +9,13 @@
 
 
 
-- 🔭 I’m currently working as Full stack development(MERN Stack, NextJS) at LeadJockey, also worked as Research and Development Engineer at Opentext.
+- 🔭 I’m currently freelancing as Full stack development(MERN Stack, NextJS), also worked as Research & Development Engineer Intern at Opentext and Jr. Software Engineer Intern at Medgenome Labs.
 
 - 💬 Ask me about **React, JavaScript, MYSQL, MongoDB, NodeJS, NextJS**
 
 - 📫 How to reach me **aartisharma.official1@gmail.com**
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Qp3VyAXnYfYYRoCM9WsRermscBE88Aq/view?pli=1](https://drive.google.com/file/d/11Qp3VyAXnYfYYRoCM9WsRermscBE88Aq/view?pli=1)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11Qp3VyAXnYfYYRoCM9WsRermscBE88Aq/view?pli=1](https://drive.google.com/file/d/160IBb1pnZYrystCEPjaMWShAVhGZKUok/view?usp=sharing)
 
 - ⚡ Fun fact **Debugging is like detective work.**
 
