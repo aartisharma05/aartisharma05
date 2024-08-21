@@ -3,8 +3,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Aarti Sharma</h1>
-<h4 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing , developing, and implementing applications and solutions using JavaScript, ReactJS, NextJS </h4>
+- <h1 align="center">Hi 👋, I'm Aarti Sharma</h1>
+- <h4 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing , developing, and implementing applications and solutions using JavaScript, ReactJS, NextJS </h4>
 
 
 
