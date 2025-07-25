@@ -4,7 +4,7 @@
 
 
  <h1 align="center">Hi 👋, I'm Aarti Sharma</h1>
-<h4 align="center">I'm a Software Development Engineer with hands-on experience in designing , developing, and implementing applications and solutions using Java, Springboot, ReactJS </h4>
+<h4 align="center">I'm a Software Development Engineer at HCLTech with hands-on experience in designing , developing, and implementing applications and solutions using Java, Springboot, ReactJS </h4>
 
 
 
