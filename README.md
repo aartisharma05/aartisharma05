@@ -4,14 +4,14 @@
 
 
  <h1 align="center">Hi 👋, I'm Aarti Sharma</h1>
-<h4 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing , developing, and implementing applications and solutions using JavaScript, ReactJS, NextJS </h4>
+<h4 align="center">I'm a Software Development Engineer with hands-on experience in designing , developing, and implementing applications and solutions using Java, Springboot, ReactJS </h4>
 
 
 
 
-- 🔭 I’m currently freelancing as Full stack development(MERN Stack, NextJS), also worked as Research & Development Engineer Intern at Opentext and Jr. Software Engineer Intern at Medgenome Labs.
+- 🔭 I’ve been a freelancer in Full stack development(MERN Stack, NextJS), also worked as Research & Development Engineer Intern at Opentext and Jr. Software Engineer Intern at Medgenome Labs.
 
-- 💬 Ask me about **React, JavaScript, MYSQL, MongoDB, NodeJS, NextJS**
+- 💬 Ask me about **Java, React, JavaScript, MYSQL, MongoDB, NodeJS, NextJS**
 
 - 📫 How to reach me **aartisharma.official1@gmail.com**
   
